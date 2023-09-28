@@ -1,4 +1,4 @@
 # dev-demo
-this is my first git repository
+This is My first Git repository
 <br>
 Author-Sagar Bhalerao
